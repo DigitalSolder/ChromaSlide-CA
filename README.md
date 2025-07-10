@@ -93,3 +93,6 @@ Expand fade effect with user-tunable speed
 
 Add sound reactivity (e.g., mic input)
 
+🧪 Demo & Simulation
+🎮 Try it Live on Wokwi:https://wokwi.com/projects/436026481687626753
+
